@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Project artifacts
+obj/
+bin/
+*.z
+.DS_Store
